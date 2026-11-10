@@ -4,7 +4,7 @@ Gliomas are the most common malignant brain tumours, and outlining them on an MR
 hand takes a radiologist a long time. We train a **deep learning model in PyTorch** that
 does it automatically: for every voxel of a 3D brain scan it predicts tumour or not tumour.
 
-> Team project, **DSI Summer School 2025, Imperial College London**.
+> Team project, **Data Science & AI Summer School 2025, Imperial College London**.
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
@@ -124,4 +124,4 @@ test scans in `data/test/<id>/<id>_fla.nii.gz`.
 
 ## Team
 
-Team project carried out at the DSI Summer School 2025, Imperial College London.
+Team project carried out at the Data Science & AI Summer School 2025, Imperial College London.
