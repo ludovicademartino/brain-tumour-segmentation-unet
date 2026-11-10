@@ -1,0 +1,8 @@
+torch>=2.0
+segmentation-models-pytorch
+albumentations
+nibabel
+numpy
+matplotlib
+tqdm
+jupyter
